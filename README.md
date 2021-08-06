@@ -1,5 +1,6 @@
 # Coronavirus-Tracker-App
-<p>Technologies Used:Java ,Springboot.</p>
-<p>Role : Coding,Designing and Documentation.</p>
-<p>The Project contains three modules controller,service and model with thymleaf.</p>
-<p>It Provides daily report of all the country's covid patient reported</p>
+</ul>
+<li>Technologies Used:Java ,Springboot.</li>
+<li>Role : Coding,Designing and Documentation.</li>
+<li>The Project contains three modules controller,service and model with thymleaf.</li>
+<li>It Provides daily report of all the country's covid patient reported</li></ul>
